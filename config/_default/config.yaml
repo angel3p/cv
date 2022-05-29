@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: GhazalehShirvani # Website name
+title: Academics # Website name
 baseURL: 'https://ghazalehshirvani.github.io/' # Website URL
 
 ############################
