@@ -11,7 +11,7 @@ superuser: true
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Univercity of Science and Technology
-    url: https://ce-inter.iust.ac.ir
+    url: http://www.iust.ac.ir
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Network Security, mobile computing and programmable matter.
@@ -22,7 +22,8 @@ interests:
   - Network Security
   - Cyber Security
   - Federated Learning
-  - Artificial Intelligence
+  - Adversarial Attacks
+  - privacy and fairness
   - PWN
 # Education to show in About widget
 education:
@@ -72,8 +73,11 @@ email: 'Ghazaleh.sh3p@gmail.com'
 highlight_name: true
 
 ---
-<p style="text-align:justify">Ghazaleh Shirvani is an MSc Computer Network student at Tehran University of Science and Technology.Before joining the University of Science and Technology as a MSc, I spent my BSc researching Cyber Security concerns. On top of that i took machine learning course (which is a graduate  course) during undergraduation so that i can research on more cutting edge researchs on security.
+
+<p style="text-align:justify">I am an MSc Computer Network student at <a href="http://www.iust.ac.ir" title="IUST">Iran University of Science and Technology</a> advised by <a href="https://scholar.google.com/citations?hl=en&user=OcWAFjcAAAAJ&view_op=list_works&sortby=pubdate" title="Azgomi">Dr. Azgomi</a>.
+ Before joining my Master's education, I spent my BSc researching Cyber Security concerns. On top of that, I took a machine learning course (a graduate course) to explore more cutting-edge research on security during my undergraduate.
 </p>
-<p style="text-align:justify", font=12>My research has spanned many areas such as Security in Computer Networks, IoT, Machine Learning edge methods. Broadly, my interest lies in gaining a fundamental understanding of a given system and the achieving of more robust systems.More recently my research focus has been in privacy in new cutting edge machine learning technique known as Federated Learning. I'm interested in understanding how robust federated learning methods are to perturbation, and privacy and fairness constraints, with the goal of designing practical algorithms that achieve privacy and fairness.
+<p style="text-align:justify"> My research has spanned many areas such as Security in Computer Networks, IoT, and Machine Learning edge methods. Broadly, my interest lies in gaining a fundamental understanding of a given system and achieving more robust systems. More recently, my research focus has been on privacy in a new cutting edge machine learning technique known as Federated Learning. I'm interested in understanding how robust federated learning methods are to perturbation, and privacy and fairness constraints, to design practical algorithms that achieve privacy and fairness.
+
 </p>
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ghresume.pdf" "newtab" >}}resume{{< /staticref >}}.
