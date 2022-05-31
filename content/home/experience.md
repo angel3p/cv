@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 30
 
 title: Experience
 subtitle:
@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Assistant 
+    company: Trustworthy Computing Laboratory (TwCL)
+    company_url: 'http://webpages.iust.ac.ir/azgomi/TwCL/fa/index.html'
+    company_logo: 
+    location: Tehran, Iran
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Improving Network Security through Analyzing Adversarial Attacks on Federated Learning was the primary emphasis of this lab. 
   - title: Research Assistant 
     company: SecurityLab of Shahid Bahonar University
     company_url: ''

@@ -10,7 +10,7 @@ superuser: true
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Univercity of Science and Technology
+  - name: University of Science and Technology
     url: http://www.iust.ac.ir
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,10 +26,10 @@ interests:
   - privacy and fairness
   - PWN
 # Education to show in About widget
-education:
+Education:
   courses:
     - course: MSc in Computer Networks
-      institution: Tehran University of Science and Technology
+      institution: Iran University of Science and Technology
       year: 2022
     - course: BSc in Software Engineering
       institution: Kerman Shahid Bahonar University
@@ -78,6 +78,5 @@ highlight_name: true
  Before joining my Master's education, I spent my BSc researching Cyber Security concerns. On top of that, I took a machine learning course (a graduate course) to explore more cutting-edge research on security during my undergraduate.
 </p>
 <p style="text-align:justify"> My research has spanned many areas such as Security in Computer Networks, IoT, and Machine Learning edge methods. Broadly, my interest lies in gaining a fundamental understanding of a given system and achieving more robust systems. More recently, my research focus has been on privacy in a new cutting edge machine learning technique known as Federated Learning. I'm interested in understanding how robust federated learning methods are to perturbation, and privacy and fairness constraints, to design practical algorithms that achieve privacy and fairness.
-
 </p>
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ghresume.pdf" "newtab" >}}resume{{< /staticref >}}.
