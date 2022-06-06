@@ -51,7 +51,7 @@ social:
     link: https://scholar.google.com/citations?user=mBmvDhIAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/angel3p
+    link: https://github.com/ghazalehshirvani
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ghazalehshirvani/
@@ -62,9 +62,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/ghresume.pdf
+#  - icon: cv
+#    icon_pack: ai
+#    link: uploads/ghresume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'Ghazaleh.sh3p@gmail.com'
@@ -79,4 +79,5 @@ highlight_name: true
 </p>
 <p style="text-align:justify"> My research has spanned many areas such as Security in Computer Networks, IoT, and Machine Learning edge methods. Broadly, my interest lies in gaining a fundamental understanding of a given system and achieving more robust systems. More recently, my research focus has been on privacy in a new cutting edge machine learning technique known as Federated Learning. I'm interested in understanding how robust federated learning methods are to perturbation, and privacy and fairness constraints, to design practical algorithms that achieve privacy and fairness.
 </p>
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ghresume.pdf" "newtab" >}}resume{{< /staticref >}}.
+<!-- 
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ghresume.pdf" "newtab" >}}resume{{< /staticref >}}. -->
